@@ -4,7 +4,8 @@
 ## Description
 4,082 Families-Family Face Data. The data includes various scenee, different families and 11 kinds of kinship pairs. One family photo was collected for each family, each family includes three family members at least. 11 kinds of kinship pairs, key points of two pupils, and bounding box of face were annotated. The data can be used for tasks such as kinship verification, searching for missing family members and organizing family photo albums.
 
-For more details, please refer to the link: https://bit.ly/3DPD1Ct
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1063?source=Github
+
 
 ## Data size
 4,082 families, 15,595 people, 18,172 Pairs of Kinship
