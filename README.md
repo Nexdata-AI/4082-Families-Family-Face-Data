@@ -32,4 +32,4 @@ one family photo for each family, including at least three family members
 the annotation accuracy of key points of pupils shall not be lower than 97%; the annotation accuracy of kinship pairs shall not be lower than 97%; the bounding box of face is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding box shall not be lower than 97%.
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
